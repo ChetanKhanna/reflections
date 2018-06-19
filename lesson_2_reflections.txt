@@ -2,7 +2,30 @@
 ..Turns the directory into Git resporatory. Needed to make
 Git resporatories from random and needed directories.
 
-#How is the staging area different from the working directory and the repository? What value do you think it offers?
+#How is the staging area different from the working directory and the
+repository? What value do you think it offers?
 ..Statging area is temporary intermediate between working 
 directory and resporatory. It helps to transfer selected files
 from working directory to the resporatory.
+
+#How can you use the staging area to make sure you have one commit per logical
+change?
+..We can segregate all modified files in the working directory
+by bringing them one by one(per logic) into the staging area
+and then add the commits to the Git resporatory
+
+#What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+..To make changes oher than a heirarichal development of the broject.
+
+#How do the diagrams help you visualize the branch structure?
+..It gives a clear idea about branch, parents and merging.
+
+#What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+..Gives a new commit with properties from both codes.
+
+#What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+..Semi-Automatic is a fantastic idea giving pro's of both auto and manual.
+
