@@ -1,0 +1,8 @@
+#What happens when you initialize a repository? Why do you need to do it?
+..Turns the directory into Git resporatory. Needed to make
+Git resporatories from random and needed directories.
+
+#How is the staging area different from the working directory and the repository? What value do you think it offers?
+..Statging area is temporary intermediate between working 
+directory and resporatory. It helps to transfer selected files
+from working directory to the resporatory.
