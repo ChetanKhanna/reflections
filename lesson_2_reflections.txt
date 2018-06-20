@@ -39,3 +39,8 @@ branches - ???
 #What is the benefit of having a copy of the last known state of the remote
 stored locally?
 ..To be able to keep track of local and original resporatory syncs.
+
+#How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+..I'll use another platform. It would be harder managing without any such
+platform though.
