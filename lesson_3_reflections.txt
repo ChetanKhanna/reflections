@@ -6,3 +6,24 @@ work local?
 automatically stay up-to-date with your remote repository?
 ..It will suit my personal needs and I may not require all changes in my local
 machine.
+
+#Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+..forks - make a copy of resporatory from one Git account to other
+clones - make a copy of resporatory either from local to local or from Git to
+local
+branches - ???
+
+#What is the benefit of having a copy of the last known state of the remote
+stored locally?
+..To be able to keep track of local and original resporatory syncs.
+
+#How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+..I'll use another platform. It would be harder managing without any such
+platform though.
+
+#When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+..same as branching from lesson_2.
+
