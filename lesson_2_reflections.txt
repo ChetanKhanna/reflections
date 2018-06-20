@@ -29,3 +29,9 @@ the diagram the way we do?
 manually?
 ..Semi-Automatic is a fantastic idea giving pro's of both auto and manual.
 
+#Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+..forks - make a copy of resporatory from one Git account to other
+clones - make a copy of resporatory either from local to local or from Git to
+local
+branches - ???
